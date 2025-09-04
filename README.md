@@ -23,9 +23,9 @@ Perfect for portfolios and resume projects.
 
 ## 🖼 Preview
 
-![image alt]([image_url](https://github.com/sameertamrakar11/weather-studio/blob/27391e8fb2a3ca352249dd82ae5105807ae5f5bd/Screenshot%20(99).png))
+![Weather App Screenshot]([screenshot.png](https://github.com/sameertamrakar11/weather-studio/blob/27391e8fb2a3ca352249dd82ae5105807ae5f5bd/Screenshot%20(99).png))  
 
 ---
 
 ## 🚀 Demo
-Live demo: **[https://your-demo-link.com](https://sameertamrakar11.github.io/weather-studio/)**  
+Live demo: **[https://sameertamrakar11.github.io/weather-studio/](https://sameertamrakar11.github.io/weather-studio/)**  
