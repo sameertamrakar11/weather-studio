@@ -1,12 +1,31 @@
-# React + Vite
+# 🌤️ Weather App — React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive weather application built with **React**, **Tailwind CSS**, and the **OpenWeather API**.  
+Features **dark mode**, **favorites**, **unit toggle (°C/°F)**, **hourly forecast**, **5-day forecast**, and smooth animations.  
+Perfect for portfolios and resume projects.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Location-based weather** using browser geolocation
+- **Search weather** by city name
+- **5-day forecast** (midday temperatures)
+- **Hourly forecast** (next 12 hours)
+- **Dark mode toggle** with local storage
+- **Unit toggle** — switch between Celsius and Fahrenheit
+- **Save favorite cities** for quick access
+- **Extra weather details** — sunrise, sunset, feels-like, min/max temps
+- **Smooth animations** on data change
+- **Responsive design** with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼 Preview
+
+![image alt]([image_url](https://github.com/sameertamrakar11/weather-studio/blob/27391e8fb2a3ca352249dd82ae5105807ae5f5bd/Screenshot%20(99).png))
+
+---
+
+## 🚀 Demo
+Live demo: **[https://your-demo-link.com](https://sameertamrakar11.github.io/weather-studio/)**  
