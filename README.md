@@ -23,7 +23,7 @@ Perfect for portfolios and resume projects.
 
 ## 🖼 Preview
 
-![Weather App Screenshot]([screenshot.png](https://github.com/sameertamrakar11/weather-studio/blob/27391e8fb2a3ca352249dd82ae5105807ae5f5bd/Screenshot%20(99).png))  
+![Weather App Screenshot](https://github.com/sameertamrakar11/weather-studio/blob/27391e8fb2a3ca352249dd82ae5105807ae5f5bd/Screenshot%20(99).png?raw=true)  
 
 ---
 
